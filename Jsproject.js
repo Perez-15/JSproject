@@ -37,4 +37,4 @@ mintNFT("NFT 2", "Description of NFT 2", "image2.jpg");
 mintNFT("NFT 3", "Description of NFT 3", "image3.jpg");
 
 listNFTs(); // Print all NFTs' metadata
-console.log("Total number of NFTs: " + getTotalSupply()); // Print total number of NFTs
+console.log("Total number of NFTs: " + getTotalSupply()); 
